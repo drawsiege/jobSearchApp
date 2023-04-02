@@ -1,3 +1,7 @@
+# Job Search App
+
+- A react native job search application that allows users to search for available jobs nearby. The app provides users with various sorting options, enabling them to filter jobs by different categories such as location, industry, and job type. The app is available on both Android and iOS devices, making it accessible to a wide range of users.
+
 ## Instructions
 
 - Install Expo on [google play](https://play.google.com/store/apps/details?id=host.exp.exponent&pli=1) or [app store](https://apps.apple.com/us/app/expo-go/id982107779)
