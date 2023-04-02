@@ -3,7 +3,7 @@
 - Install Expo on [google play](https://play.google.com/store/apps/details?id=host.exp.exponent&pli=1) or [app store](https://apps.apple.com/us/app/expo-go/id982107779)
 - Then scan QR code here using expo app [Expo App Link](https://expo.dev/@h34dcrush3r/jobs?serviceType=classic&distribution=e)
 
-## Note
+## Special Note
 
 - There might be some compatibility issues
 
