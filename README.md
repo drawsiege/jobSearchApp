@@ -6,6 +6,7 @@
 ## Special Note
 
 - There might be some compatibility issues
+- Some features are not yet implemented like the menu, profile, save job, change location and profile
 
 ## Screenshots
 
