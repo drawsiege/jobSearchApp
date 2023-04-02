@@ -1,4 +1,4 @@
-<img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss1.png" width="80"/>
+<img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss1.png" width="128"/>
 
 # Expo Router Example
 
