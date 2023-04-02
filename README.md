@@ -1,3 +1,5 @@
+![App Screenshot](https://github.com/drawsiege/jobSearchApp/blob/ss/ss1.png?raw=true)
+
 # Expo Router Example
 
 Use [`expo-router`](https://expo.github.io/router) to build native navigation using files in the `app/` directory.
