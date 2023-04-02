@@ -1,4 +1,4 @@
-<img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss1.png" width="128"/><img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss2.png" width="128"/><img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss3.png" width="128"/><img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss4.png" width="128"/><img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss5.png" width="128"/>
+<img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss1.png" width="128" style="margin-right: 10px;"/><img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss2.png" width="128" style="margin-right: 10px;"/><img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss3.png" width="128" style="margin-right: 10px;"/><img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss4.png" width="128" style="margin-right: 10px;"/><img src="https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss5.png" width="128" style="margin-right: 10px;"/>
 
 # Expo Router Example
 
