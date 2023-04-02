@@ -1,4 +1,4 @@
-![App Screenshot](https://github.com/drawsiege/jobSearchApp/blob/ss/ss1.png?raw=true)
+![App Screenshot](https://github.com/drawsiege/jobSearchApp/blob/main/ss/ss1.png?raw=true)
 
 # Expo Router Example
 
